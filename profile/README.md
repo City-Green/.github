@@ -11,7 +11,7 @@
 
 ## :sunglasses: Who are we?
 
-CityGreen is a project team building **full-chain urban unmanned farms driven by swarm intelligence**. We are incubated at the Computational Intelligence Lab — MetaEvolution Lab (MetaEvo), School of Computer Science and Engineering, South China University of Technology (SCUT), and supported by Panorama Optimization (Guangzhou) AI Technology Co., Ltd.
+CityGreen is a project team building **full-chain urban unmanned farms driven by swarm intelligence**. We are incubated at the Computational Intelligence Lab — [MetaEvolution Lab](https://metaevo.github.io/), School of Computer Science and Engineering, South China University of Technology (SCUT), and supported by Panorama Optimization (Guangzhou) AI Technology Co., Ltd.
 
 We are not trying to build one "do-everything" agricultural robot. Instead, we organize a group of low-cost, small and modular unmanned devices — UAVs, UGVs, IoT sensors and smart irrigation units — into an **edge operating swarm**, and pair it with a **cloud-side collective intelligence** that perceives, plans, schedules and keeps learning. The two form a closed loop: *cloud decision → edge collaboration → field operation → data feedback → continuous optimization*. A single device has limited capability, yet the swarm together can take on complex farming work, and the system can be reconfigured plot by plot as the scenario changes.
 
