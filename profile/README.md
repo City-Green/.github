@@ -49,8 +49,9 @@ The six teams running in parallel:
 ## :camera: Gallery
 
 <div align=center>
-<img src="group_photo.jpg" width="80%">
+<img src="Group_photo.jpg" width="80%">
 </div>
+
 
 
 
